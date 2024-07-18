@@ -17,7 +17,7 @@
 
 // Answer to the question no 2
 
-// the answer of the question is on the two files in the same directory.
+// // answer are available in circle-area-asker and circle-area-calculator files.
 
 // // Question 2 End
 
